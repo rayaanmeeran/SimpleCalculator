@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class Main {
 
+    /**
+     * Adds two numeric values.
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
